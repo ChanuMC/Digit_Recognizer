@@ -1,4 +1,4 @@
-# Digit_Recognizer
+
 # 🧠 Digit Recognizer using CNN (MNIST)
 
 ## 📌 Project Overview
